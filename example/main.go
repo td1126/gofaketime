@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/asppj/gofaketime"
+	"github.com/td1126/gofaketime"
 )
 
 func main() {

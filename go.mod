@@ -1,4 +1,4 @@
-module github.com/asppj/gofaketime
+module github.com/td1126/gofaketime
 
 go 1.17
 
